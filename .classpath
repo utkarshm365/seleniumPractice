@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="C:/Users/admin/Downloads/selenium-java-3.11.0/libs/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/admin/Downloads/selenium-java-3.11.0/client-combined-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/admin/Downloads/selenium-java-3.11.0/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
